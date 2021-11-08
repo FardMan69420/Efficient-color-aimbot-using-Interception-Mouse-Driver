@@ -1,4 +1,4 @@
-# Efficient color aimbot, using Interception/Interceptor mouse driver & AutoItX3
+# Efficient color aimbot, using Interception mouse driver & AutoItX3
 First off. If you are a skidd, u should find something easier to work with.
 
 # What is api interception? when is it used? how to implement it in C#
