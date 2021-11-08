@@ -18,6 +18,8 @@ https://github.com/jasonpang/Interceptor
 # Why Interception & AutoItX3 instead of a normal / basic PixelSearch Color Aimbot?
 
 Altough this Color Aimbot it's basic, it can bypass / bypassed most known Kernel-Level Anti Cheats. (Used to bypass Vanguard, it can still bypass it with a more advanced color aimbot or sm.)
+Any AHK Script / Basic Color/Pixel Based Aimbot it's detected / just doesen't work on games like Valorant because of the new mouse bypass for Valorant, they are currently checking for LLMHF_INJECTED.
+
 You can use an older version of "rawaccel" instead of Interception it might bypass the ac.
 
 # AutoItX3
