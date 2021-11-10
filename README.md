@@ -21,7 +21,7 @@ https://github.com/jasonpang/Interceptor  <br />
 
 Altough this Color Aimbot it's basic, it can bypass / bypassed most known Kernel-Level Anti Cheats. (Used to bypass Vanguard, it can still bypass it with a more advanced color aimbot or sm.)  <br />
 
-Any AHK Script / Basic Color/Pixel Based Aimbot it's detected / just doesen't work on games like Valorant because of the new mouse bypass for Valorant, they are currently checking for LLMHF_INJECTED.  <br />
+Any AHK Script / Basic Color/Pixel Based Aimbot it's detected / just doesen't work on games like Valorant because of the new mouse_event bypass for Valorant, they are currently checking for LLMHF_INJECTED.  <br />
 
 You can use an older version of "rawaccel" instead of Interception it might bypass the ac.  <br />
 
